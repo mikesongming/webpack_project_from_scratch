@@ -1,0 +1,30 @@
+{
+  "name": "webpack_project_from_scratch",
+  "version": "0.0.1",
+  "description": "demo js project using npm & webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikesongming/webpack_project_from_scratch.git"
+  },
+  "keywords": [
+    "demo",
+    "npm",
+    "webpack"
+  ],
+  "author": "mike song",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikesongming/webpack_project_from_scratch/issues"
+  },
+  "homepage": "https://github.com/mikesongming/webpack_project_from_scratch#readme",
+  "devDependencies": {
+    "webpack": "^4.16.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
